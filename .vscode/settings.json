@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stm32f103x6.h": "c",
+        "uartconfig.c": "cpp",
+        "defines.h": "c",
+        "tim1config.h": "c",
+        "tim2config.h": "c",
+        "clockconfig.h": "c"
+    }
+}
