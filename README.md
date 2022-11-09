@@ -1,6 +1,6 @@
 # Brake Fluid Flush Machine
 
-Brake Fluid Flush Machine is a project that was born in the need to replace an old and unfunctional PCB that controlled all the functions in an ATE FB30S.
+Brake Fluid Flush Machine is a personal project that was born in the need to replace an old and unfunctional PCB that controlled all the functions in an ATE FB30S.
 
 All the mechanical parts of the machine were working perfectly, but the PBC broke down, not being able to control the output pressure anymore, going to full pressure constantly. That resulted in the necessity of a person (me, ha) continually controlling the pressure manually, simply and boringly turning the knob on and off, while flushing the brake fluid of the cars at the shop were I work.
 
@@ -8,7 +8,7 @@ The original PCB had to be completely replaced for a hand-made one that houses a
 
 ## How it works
 
-Schematics for the wiring can be found in the schematics folder of the project.
+Schematics for the wiring can be found in the schematics folder of the project (both .kicad files and screen captures for quick reference).
 
 The C code is pretty simple and straightforward, and also heavily commented, but basically it runs a program that:
 
