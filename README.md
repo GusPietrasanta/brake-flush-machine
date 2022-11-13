@@ -42,16 +42,30 @@ Time to see what happened.
  
 ## Wrong power transistor handling = Long fall time = Overheating
   
-On the first version of the circuit board I was using a MOSFET driver module that was near to its current limits, plus a way too high frequency choice to avoid noise from DC motor.
+On the first version of the circuit board I was using a pre-made MOSFET driver module that was near to its current limits, plus a way too high frequency choice to avoid noise from DC motor.
   
  ![Long transistor fall time](https://lh3.googleusercontent.com/pw/AL9nZEWR__fvAlwdjqLEswZq5bXalj9jBWitizKjrRxcW22vLfFT4RCG0umuXvR_K1CQqBUsz9WP0mg7YNO6Yz5sB7wCG8CrjDmdMP0ge4nJu21_317OVBSb8XMmoArsUtcqniB1m4W0kJRsxPGbVNFHimDm=w500-h375-no)
   
   
- ## Lower frequency + using an optocoupler with the correct resistor = Perfect.
+ ## Lower frequency + using an optocoupler with the right resistor = Perfect.
   
  Now with some changes done to the transistor driving circuit and modifiying the code to run the PWM at 1kHz instead of 10kHz made a nice waveform.
   
 ![Better transistor fall time](https://lh3.googleusercontent.com/pw/AL9nZEWjZTGV9HoeCx6PQg5539utHlpaje7viwZBzFvThsI6Zbbn0LUWKaMz-h2chkAuermlV-horm4cg4er4QKs8hFCNDOKPOrZM0AgBUqUrJeYAavauK_L8QcAqbFQze-wpjQuHof22aRtzns6sjLA7CKK=w500-h375-no)
+  
+ ## Fitting the new version of the circuit board.
+  
+  ![Fitting the circuit baord](https://lh3.googleusercontent.com/pw/AL9nZEUgNU-BOZ_ODUafnrI-tL9oFSiPWOjoGRE--pPJEBMBfZZFIxphskdv3KWwKB_DQISk96UcqfE-MsGKiTbbEDEkSj1qJ7MZBbtIaaDmkZUSnE7RNDhxhaIrKdSfz3NuNcNOU54UhgdRKeTpBQ11gbus=w500-h375-no)
+  
+ ## Testing the 3 different pressure settings.
+  
+  ![Testing pressure](https://lh3.googleusercontent.com/pw/AL9nZEUxMaXDRRwWxVykhyP6rTw5lYcWeSPlUts1l5h9vfSxAXM_cOI0Kynwg_MKWoA3rnSfiL5DZ0XHdcU3EYGIF7a-18kQfsjVcGE7iKM0PZThiR566cqI-bjpcbTS4Ke85fYTadCMjUq5M5wbKkgIUBVT=500-h236-no)
+  
+## Brake fluid level in the tank going low.
+  
+(Note the pressure manometer dropping to 0 and the red LED turning on while the green one turns off, as well as the brake fluid stops coming out from the fitting of course).
+  
+  ![Low level testing](https://lh3.googleusercontent.com/pw/AL9nZEWE6f357kbiizwjcGf4m-DmnHLQlDFyPAC6Wt0Tfi_8C7hAiaVk3D8vUk3hiOS7uAcg8PgoIdbuOk2ywaGXgbogX9hXhbdQD9HVb20neNaj_DJCIL3v-LMwbO5QbwCtZxbJKTtqvY3hJNgZUxDxbEV-=w500-h587-no)
   
   
 </div>
