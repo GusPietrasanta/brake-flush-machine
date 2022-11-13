@@ -4,6 +4,8 @@ Brake Fluid Flush Machine is a personal project that was born in the need to rep
 
 All the mechanical parts of the machine were working perfectly, but the PBC broke down, not being able to control the output pressure anymore, going to full pressure constantly. That resulted in the necessity of a person (me, ha) continually controlling the pressure manually, simply and boringly turning the knob on and off, while flushing the brake fluid of the cars at the shop were I work.
 
+Due to the age of the machine, spare parts are not longer available, making it impossible to buy a replacement PCB.
+
 The original PCB had to be completely replaced for a hand-made circuit board that houses a STM32F103C6T6 (A.K.A. BluePill) as the brain of the machine. Also minor additions and modifications had to be done to the original wiring and components.
 
 ## How it works
