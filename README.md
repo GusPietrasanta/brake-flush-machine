@@ -59,7 +59,7 @@ On the first version of the circuit board I was using a pre-made MOSFET driver m
   
  ## Testing the 3 different pressure settings.
   
-  ![Testing pressure](https://lh3.googleusercontent.com/pw/AL9nZEUxMaXDRRwWxVykhyP6rTw5lYcWeSPlUts1l5h9vfSxAXM_cOI0Kynwg_MKWoA3rnSfiL5DZ0XHdcU3EYGIF7a-18kQfsjVcGE7iKM0PZThiR566cqI-bjpcbTS4Ke85fYTadCMjUq5M5wbKkgIUBVT=500-h236-no)
+  ![Testing pressure](https://lh3.googleusercontent.com/pw/AL9nZEX7leTONf_0Gxw2vTLoS7Tc9oe3nc9U1Z_Wb7080bV5z0qk21aXCUL-fIcedpQSiJT1eWXwb2gHSIy54FFbqZqfn5aFsLDgXnGi7ZR1MBTgiN5aPfaBE9jM65Jl4RRJeb3-kgKMR7DE2kWzosP-gUuy=w500-h236-no)
   
 ## Brake fluid level in the tank going low.
   
