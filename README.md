@@ -28,15 +28,13 @@ The C code is pretty simple and straightforward, and also heavily commented, but
 <div align="center">
  
  ## Prototyping at home.
- ![Prototyping at home]
-(https://lh3.googleusercontent.com/pw/AL9nZEWRU2Fcxen2eu2Is5HhuXg29laV45PEWurHrB4cMVqvShevNhHxuINT2j2j0AUPqX7nn-F8M6niiDpOdiDkRKK_MPYfdzpoIrRbSukCzI6MCQOHsuT2Vh7tZbvD74anECra5FB5cbe-mvgIJMDzrYGT=w500-h375-no)
+ ![Prototyping at home](https://lh3.googleusercontent.com/pw/AL9nZEWRU2Fcxen2eu2Is5HhuXg29laV45PEWurHrB4cMVqvShevNhHxuINT2j2j0AUPqX7nn-F8M6niiDpOdiDkRKK_MPYfdzpoIrRbSukCzI6MCQOHsuT2Vh7tZbvD74anECra5FB5cbe-mvgIJMDzrYGT=w500-h375-no)
   
  ## The old PCB ready to come out.
 ![Old PCB](https://lh3.googleusercontent.com/pw/AL9nZEUgVGReLhrqR16zL7KPi0kJ3tDzJyL50DJT6V5VamN13YBF2kxTiJc6WLM347VGx549UuFdAJXR3m9obiW5IqaeX3L8vUuandymOf_PcKWV5lvItqAHTTmVo4XvODy86YN_z4QFmO7OTCPefcIpwHiC=w500-h375-no)
 
 ## The new circuit board ready to go in (not the final version sadly)
-![New PCB first version]
-(https://lh3.googleusercontent.com/pw/AL9nZEWlQwKa9mvBPK0lHeQAPv2v5QDge7iK-2Ut6saoNSOGZtoHICZLfWVQWFeHclv7XR0sEK-Re7MlcK8unCWdmWjMd75tyG5dVW03ts-QY-a7xWYATtBRRhGbsL0BMaeAS95lQR6QyN6tGiClqYRmzMpV=w500-h666-no)
+![New PCB first version](https://lh3.googleusercontent.com/pw/AL9nZEWlQwKa9mvBPK0lHeQAPv2v5QDge7iK-2Ut6saoNSOGZtoHICZLfWVQWFeHclv7XR0sEK-Re7MlcK8unCWdmWjMd75tyG5dVW03ts-QY-a7xWYATtBRRhGbsL0BMaeAS95lQR6QyN6tGiClqYRmzMpV=w500-h666-no)
  
 After a couple of runs, the main transistor overheated and stopped working properly: a junction went short-circuit, sending the pump to full speed. The safety relay came into action turning the power supply off avoiding a probable explosion of the plastic reservoir for the brake fluid of the car I was working on at the moment, due to over-pressure.
   
@@ -46,15 +44,14 @@ Time to see what happened.
   
 On the first version of the circuit board I was using a MOSFET driver module that was near to its current limits, plus a way too high frequency choice to avoid noise from DC motor.
   
- ![Long transistor fall time]  (https://lh3.googleusercontent.com/pw/AL9nZEWR__fvAlwdjqLEswZq5bXalj9jBWitizKjrRxcW22vLfFT4RCG0umuXvR_K1CQqBUsz9WP0mg7YNO6Yz5sB7wCG8CrjDmdMP0ge4nJu21_317OVBSb8XMmoArsUtcqniB1m4W0kJRsxPGbVNFHimDm=w500-h375-no)
+ ![Long transistor fall time](https://lh3.googleusercontent.com/pw/AL9nZEWR__fvAlwdjqLEswZq5bXalj9jBWitizKjrRxcW22vLfFT4RCG0umuXvR_K1CQqBUsz9WP0mg7YNO6Yz5sB7wCG8CrjDmdMP0ge4nJu21_317OVBSb8XMmoArsUtcqniB1m4W0kJRsxPGbVNFHimDm=w500-h375-no)
   
   
  ## Lower frequency + using an optocoupler with the correct resistor = Perfect.
   
  Now with some changes done to the transistor driving circuit and modifiying the code to run the PWM at 1kHz instead of 10kHz made a nice waveform.
   
-![Better transistor fall time]
-(https://lh3.googleusercontent.com/pw/AL9nZEWjZTGV9HoeCx6PQg5539utHlpaje7viwZBzFvThsI6Zbbn0LUWKaMz-h2chkAuermlV-horm4cg4er4QKs8hFCNDOKPOrZM0AgBUqUrJeYAavauK_L8QcAqbFQze-wpjQuHof22aRtzns6sjLA7CKK=w500-h375-no)
+![Better transistor fall time](https://lh3.googleusercontent.com/pw/AL9nZEWjZTGV9HoeCx6PQg5539utHlpaje7viwZBzFvThsI6Zbbn0LUWKaMz-h2chkAuermlV-horm4cg4er4QKs8hFCNDOKPOrZM0AgBUqUrJeYAavauK_L8QcAqbFQze-wpjQuHof22aRtzns6sjLA7CKK=w500-h375-no)
   
   
 </div>
