@@ -24,4 +24,4 @@ The C code is pretty simple and straightforward, and also heavily commented, but
     - If so, it turns on the safety relay that feeds the pump, checks the required pressure, calculates the adequate PWM, and sets that PWM to the output pin that controls the pump.
     - If something is wrong, it sets the PMW to 0, turns the relay off, turns the red LED on, the green LED off, and starts a counter to turn the buzzer on and off.
 
-![Old PCB]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://lh3.googleusercontent.com/pw/AL9nZEUgVGReLhrqR16zL7KPi0kJ3tDzJyL50DJT6V5VamN13YBF2kxTiJc6WLM347VGx549UuFdAJXR3m9obiW5IqaeX3L8vUuandymOf_PcKWV5lvItqAHTTmVo4XvODy86YN_z4QFmO7OTCPefcIpwHiC=w500-h375-no))
+![Old PCB]([https://lh3.googleusercontent.com/pw/AL9nZEUgVGReLhrqR16zL7KPi0kJ3tDzJyL50DJT6V5VamN13YBF2kxTiJc6WLM347VGx549UuFdAJXR3m9obiW5IqaeX3L8vUuandymOf_PcKWV5lvItqAHTTmVo4XvODy86YN_z4QFmO7OTCPefcIpwHiC=w500-h375-no])
