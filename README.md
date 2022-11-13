@@ -29,7 +29,7 @@ The C code is pretty simple and straightforward, and also heavily commented, but
  
  ## The problem with the original circuit board.
  The old PCB was dangerously ramping the pressure up constantly beyond safe limits.
- ![Too much pressure](https://lh3.googleusercontent.com/pw/AL9nZEXRBaJH9ohCdPlgKFwH1t0pso10AT9IdDXd32XFWP8sOzDWjYoQWosrIPxzIdbOwi0pZcDIjSmIqmVuvfYqQpDZy2yZhW7LI1qP5CoOKJOSNjdWEDuy77M2fp6gxVtXMeybodgNf6VzVpw-entdc4Ka=500-h268-no)
+ ![Too much pressure](https://lh3.googleusercontent.com/pw/AL9nZEXRBaJH9ohCdPlgKFwH1t0pso10AT9IdDXd32XFWP8sOzDWjYoQWosrIPxzIdbOwi0pZcDIjSmIqmVuvfYqQpDZy2yZhW7LI1qP5CoOKJOSNjdWEDuy77M2fp6gxVtXMeybodgNf6VzVpw-entdc4Ka=w500-h268-no)
  
  ## Prototyping at home.
  ![Prototyping at home](https://lh3.googleusercontent.com/pw/AL9nZEWRU2Fcxen2eu2Is5HhuXg29laV45PEWurHrB4cMVqvShevNhHxuINT2j2j0AUPqX7nn-F8M6niiDpOdiDkRKK_MPYfdzpoIrRbSukCzI6MCQOHsuT2Vh7tZbvD74anECra5FB5cbe-mvgIJMDzrYGT=w500-h375-no)
