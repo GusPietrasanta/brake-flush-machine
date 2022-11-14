@@ -61,7 +61,7 @@ On the first version of the circuit board I was using a pre-made MOSFET driver m
   
  ## Fitting the new version of the circuit board.
   
-  ![Fitting the circuit baord](https://lh3.googleusercontent.com/pw/AL9nZEVhXML6teN9D8WFxLRrCtGcHiNwkafbbS5bBndphxcJm85gwBH5UfikhcckX74Rlyg32bSiSsGTxRiFQIc7pF8QG8xxla6CsTXdVT4zpvkJfYMzVe-KxI0ktIr9PvS41mBx2Hqt_3dPNJlSCxyH1pYt=500-h375-no)
+  ![Fitting the circuit baord](https://lh3.googleusercontent.com/pw/AL9nZEVhXML6teN9D8WFxLRrCtGcHiNwkafbbS5bBndphxcJm85gwBH5UfikhcckX74Rlyg32bSiSsGTxRiFQIc7pF8QG8xxla6CsTXdVT4zpvkJfYMzVe-KxI0ktIr9PvS41mBx2Hqt_3dPNJlSCxyH1pYt=w500-h375-no)
   
  ## Testing the 3 different pressure settings.
   
