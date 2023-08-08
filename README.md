@@ -2,7 +2,7 @@
 
 Brake Fluid Flush Machine is a personal project that was born in the need to replace an old and unfunctional PCB that controlled all the functions in an ATE FB30S.
 
-All the mechanical parts of the machine were working perfectly, but the PBC broke down, not being able to control the output pressure anymore, going to full pressure constantly. That resulted in the necessity of a person (me, ha) continually controlling the pressure manually, simply and boringly turning the knob on and off, while flushing the brake fluid of the cars at the shop were I work.
+All the mechanical parts of the machine were working perfectly, but the PCB broke down, not being able to control the output pressure anymore, going to full pressure constantly. That resulted in the necessity of a person (me, ha) continually controlling the pressure manually, simply and boringly turning the knob on and off, while flushing the brake fluid of the cars at the shop were I work.
 
 Due to the age of the machine, spare parts are not longer available, making it impossible to buy a replacement PCB.
 
